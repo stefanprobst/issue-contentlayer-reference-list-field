@@ -1,0 +1,13 @@
+{
+  "name": "issue-contentlayer-reference-list-field",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "generate": "contentlayer build"
+  },
+  "devDependencies": {
+    "contentlayer": "^0.2.5",
+    "typescript": "^4.7.2"
+  }
+}
